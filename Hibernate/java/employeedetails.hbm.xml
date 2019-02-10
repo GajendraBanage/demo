@@ -7,7 +7,7 @@
   <class name="model.Employee">  
     <id name="id">  
      <generator class="increment"></generator>  
-    </id>  
+    </id>    
             
     <property name="name"></property>  
     <property name="salary"></property>  
